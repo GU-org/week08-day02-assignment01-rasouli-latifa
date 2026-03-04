@@ -1,4 +1,4 @@
 function bmiCalc(w,h){
-    bmi=w/(h*h);
+   let bmi=w/(h*h);
     return bmi;
 }
